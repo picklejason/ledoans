@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ledoans/static/css/main.e3ab99ea.chunk.css",
+    "main.js": "/ledoans/static/js/main.d1ab190e.chunk.js",
+    "main.js.map": "/ledoans/static/js/main.d1ab190e.chunk.js.map",
+    "runtime-main.js": "/ledoans/static/js/runtime-main.cc4a94cb.js",
+    "runtime-main.js.map": "/ledoans/static/js/runtime-main.cc4a94cb.js.map",
+    "static/js/2.9b5e6022.chunk.js": "/ledoans/static/js/2.9b5e6022.chunk.js",
+    "static/js/2.9b5e6022.chunk.js.map": "/ledoans/static/js/2.9b5e6022.chunk.js.map",
+    "index.html": "/ledoans/index.html",
+    "static/css/main.e3ab99ea.chunk.css.map": "/ledoans/static/css/main.e3ab99ea.chunk.css.map",
+    "static/js/2.9b5e6022.chunk.js.LICENSE.txt": "/ledoans/static/js/2.9b5e6022.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc4a94cb.js",
+    "static/js/2.9b5e6022.chunk.js",
+    "static/css/main.e3ab99ea.chunk.css",
+    "static/js/main.d1ab190e.chunk.js"
+  ]
+}
